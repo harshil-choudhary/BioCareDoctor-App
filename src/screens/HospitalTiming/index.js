@@ -31,7 +31,7 @@ class HospitalTiming extends Component {
                                 contentContainerStyle={styles.scrollWrapper}
                                 showsVerticalScrollIndicator={false}>
                         <View style={styles.upperWrapper}>
-                            <Text style={styles.uName}>Hi! Shashank</Text>
+                            <Text style={styles.uName}>Hi!</Text>
                         </View>
                         <View style={styles.upperWrapper2}>
                             <Text style={styles.uName2}>Please tap on the date to unmark availability. Marked dates will be considered available.</Text>

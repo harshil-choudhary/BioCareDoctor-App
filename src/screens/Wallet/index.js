@@ -78,7 +78,7 @@ class Wallet extends Component {
                             contentContainerStyle={styles.scrollWrapper}
                             showsVerticalScrollIndicator={false}>
                             <View style={styles.upperWrapper}>
-                                <Text style={styles.uName}>Welcome! Shashank </Text>
+                                <Text style={styles.uName}>Welcome!</Text>
                             </View>
                             <View style={styles.upperWrapper2}>
 
